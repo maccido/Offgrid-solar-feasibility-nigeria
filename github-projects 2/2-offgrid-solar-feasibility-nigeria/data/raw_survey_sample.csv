@@ -1,0 +1,421 @@
+hh_id,community,respondent_gender,hh_size,monthly_income_ngn,monthly_energy_exp_ngn,has_grid_connection,uses_generator,uses_kerosene,wtp_solar_monthly_ngn,energy_decision_maker,education_level
+HH0001,Kwarbai-A,Male,3,54681.0,4874.0,1,1,1,3353.0,Female head / joint,Secondary
+HH0002,Kwarbai-A,Male,7,100754.0,3219.0,0,1,1,2545.0,Male only,None
+HH0003,Shika,Male,7,71756.0,5519.0,0,1,0,5005.0,Male only,Primary
+HH0004,Basawa,Female,9,43807.0,3562.0,0,0,1,5070.0,Female head / joint,Primary
+HH0005,Samaru,Female,4,43529.0,8694.0,0,1,1,1923.0,Female head / joint,Primary
+HH0006,Kwarbai-B,Male,3,58231.0,1351.0,0,1,1,3901.0,Female head / joint,Secondary
+HH0007,Samaru,Female,9,26276.0,3139.0,0,1,1,890.0,Female head / joint,Primary
+HH0008,Shika,Male,9,35450.0,5658.0,0,1,1,12066.0,Male only,Tertiary
+HH0009,Kwarbai-A,Male,10,62551.0,3055.0,0,1,0,5635.0,Male only,Primary
+HH0010,Kwarbai-B,Female,3,117532.0,2450.0,0,1,1,2100.0,Male only,Primary
+HH0011,Basawa,Female,8,33006.0,3188.0,0,0,0,1081.0,Female head / joint,Secondary
+HH0012,Kwarbai-B,Female,11,35276.0,1826.0,0,1,1,3184.0,Female head / joint,Secondary
+HH0013,Shika,Female,9,40908.0,3864.0,0,0,0,659.0,Female head / joint,Tertiary
+HH0014,Shika,Female,7,81302.0,12335.0,0,1,0,1414.0,Female head / joint,None
+HH0015,Shika,Female,7,35661.0,6454.0,0,0,1,4122.0,Female head / joint,None
+HH0016,Kwarbai-B,Male,6,87695.0,2091.0,0,0,0,2573.0,Other,Primary
+HH0017,Kwarbai-A,Male,3,20333.0,2353.0,0,1,1,1731.0,Female head / joint,Tertiary
+HH0018,Kwarbai-A,Male,9,32480.0,2974.0,0,0,1,4748.0,Female head / joint,Secondary
+HH0019,Samaru,Male,7,32244.0,6016.0,0,0,1,1180.0,Male only,Secondary
+HH0020,Kwarbai-B,Male,7,58215.0,2415.0,1,0,1,2979.0,Other,Primary
+HH0021,Basawa,Female,11,67993.0,2578.0,0,1,1,1722.0,Male only,Tertiary
+HH0022,Basawa,Female,9,14681.0,5667.0,0,0,1,1349.0,Male only,None
+HH0023,Kwarbai-B,Male,11,20972.0,5610.0,0,1,1,3376.0,Female head / joint,Primary
+HH0024,Kwarbai-B,Female,3,44450.0,3020.0,1,0,1,1218.0,Female head / joint,Secondary
+HH0025,Shika,Female,11,24460.0,2082.0,1,0,0,9241.0,Female head / joint,Secondary
+HH0026,Samaru,Female,8,14567.0,1678.0,0,1,0,1621.0,Male only,Secondary
+HH0027,Kwarbai-A,Female,6,67717.0,2567.0,0,1,1,9827.0,Male only,Primary
+HH0028,Shika,Male,8,48844.0,1194.0,0,1,0,1135.0,Male only,Primary
+HH0029,Shika,Male,3,48821.0,5297.0,0,1,0,3730.0,Male only,Tertiary
+HH0030,Basawa,Female,11,27302.0,2657.0,1,0,1,1054.0,Male only,Primary
+HH0031,Kwarbai-B,Female,8,67330.0,4632.0,0,1,0,955.0,Male only,Primary
+HH0032,Basawa,Female,3,31446.0,9267.0,0,1,0,2729.0,Female head / joint,None
+HH0033,Samaru,Female,11,70113.0,6545.0,0,0,1,3922.0,Female head / joint,Secondary
+HH0034,Shika,Female,7,21015.0,2048.0,0,1,0,1000.0,Female head / joint,Secondary
+HH0035,Shika,Male,4,21753.0,5623.0,1,1,0,5591.0,Other,Primary
+HH0036,Kwarbai-B,Female,8,41060.0,6496.0,0,0,1,1396.0,Male only,Primary
+HH0037,Shika,Female,3,23828.0,2507.0,1,1,1,2675.0,Other,Secondary
+HH0038,Shika,Female,7,54463.0,2261.0,0,0,1,3184.0,Male only,Tertiary
+HH0039,Kwarbai-B,Male,9,42449.0,3447.0,0,0,0,3701.0,Male only,Secondary
+HH0040,Samaru,Female,3,20873.0,1635.0,1,1,0,693.0,Male only,Secondary
+HH0041,Basawa,Female,10,37938.0,7596.0,0,0,1,7578.0,Male only,Tertiary
+HH0042,Kwarbai-B,Male,8,29414.0,1094.0,0,1,1,3616.0,Female head / joint,Secondary
+HH0043,Shika,Female,5,62912.0,2094.0,0,0,0,1812.0,Male only,Primary
+HH0044,Kwarbai-A,Male,4,24846.0,3182.0,0,0,1,1192.0,Female head / joint,None
+HH0045,Basawa,Male,3,27903.0,3250.0,0,1,1,746.0,Other,Secondary
+HH0046,Kwarbai-B,Male,4,75112.0,3956.0,0,1,1,941.0,Male only,Secondary
+HH0047,Shika,Female,5,139129.0,4170.0,0,0,0,3574.0,Female head / joint,Tertiary
+HH0048,Kwarbai-A,Male,10,120500.0,3272.0,1,0,0,1922.0,Male only,None
+HH0049,Kwarbai-B,Female,7,37720.0,6428.0,0,1,0,1105.0,Male only,None
+HH0050,Basawa,Male,4,41411.0,1249.0,0,1,0,1688.0,Female head / joint,Secondary
+HH0051,Kwarbai-B,Female,9,91133.0,3641.0,0,1,1,7295.0,Male only,Secondary
+HH0052,Samaru,Male,7,33703.0,2547.0,0,0,1,1936.0,Male only,None
+HH0053,Kwarbai-B,Female,10,20215.0,3890.0,0,0,1,1621.0,Male only,Secondary
+HH0054,Kwarbai-A,Female,9,38954.0,4066.0,0,0,1,6282.0,Male only,Primary
+HH0055,Kwarbai-A,Female,11,47615.0,2308.0,0,0,0,3372.0,Male only,Tertiary
+HH0056,Shika,Female,9,22082.0,2643.0,0,0,1,2517.0,Female head / joint,Primary
+HH0057,Shika,Male,3,13525.0,5412.0,0,0,1,1595.0,Male only,None
+HH0058,Samaru,Female,7,15336.0,4335.0,0,0,1,823.0,Male only,Secondary
+HH0059,Basawa,Male,6,54136.0,2591.0,0,0,1,1076.0,Female head / joint,Primary
+HH0060,Samaru,Male,10,23040.0,10097.0,1,0,1,1744.0,Female head / joint,Primary
+HH0061,Samaru,Male,4,33363.0,11552.0,0,0,1,2093.0,Female head / joint,None
+HH0062,Kwarbai-A,Male,7,41255.0,1752.0,0,1,1,3132.0,Female head / joint,Primary
+HH0063,Kwarbai-A,Male,10,52653.0,4234.0,1,1,0,3591.0,Female head / joint,None
+HH0064,Samaru,Female,8,29705.0,12765.0,0,1,1,2853.0,Male only,Primary
+HH0065,Shika,Female,3,48983.0,5388.0,0,1,1,2848.0,Other,Secondary
+HH0066,Shika,Female,10,21289.0,4066.0,0,1,1,1206.0,Male only,Primary
+HH0067,Samaru,Female,6,29231.0,3281.0,0,1,1,540.0,Male only,Secondary
+HH0068,Samaru,Female,9,19641.0,2778.0,0,0,0,1695.0,Male only,Tertiary
+HH0069,Shika,Male,8,71615.0,3274.0,1,1,0,1251.0,Male only,Secondary
+HH0070,Samaru,Female,8,35730.0,2765.0,1,0,1,1546.0,Male only,None
+HH0071,Kwarbai-B,Male,6,23305.0,5284.0,0,0,1,2014.0,Female head / joint,Tertiary
+HH0072,Basawa,Female,6,29395.0,2984.0,0,1,1,1022.0,Male only,None
+HH0073,Samaru,Male,3,31792.0,2920.0,1,1,0,1122.0,Female head / joint,Primary
+HH0074,Samaru,Male,8,55288.0,1996.0,0,0,0,2275.0,Female head / joint,Primary
+HH0075,Kwarbai-A,Female,5,13941.0,3552.0,0,1,1,2647.0,Male only,Secondary
+HH0076,Basawa,Male,6,19490.0,2328.0,1,0,1,1542.0,Male only,Primary
+HH0077,Kwarbai-B,Male,4,28945.0,3326.0,1,1,1,3459.0,Male only,Primary
+HH0078,Kwarbai-A,Male,9,165940.0,6130.0,1,0,0,2093.0,Female head / joint,Secondary
+HH0079,Basawa,Male,11,64435.0,4372.0,0,0,1,1195.0,Other,Primary
+HH0080,Kwarbai-A,Female,6,33966.0,4686.0,1,0,1,2511.0,Male only,Primary
+HH0081,Kwarbai-A,Female,6,55670.0,4350.0,0,0,1,9115.0,Male only,Primary
+HH0082,Kwarbai-A,Male,7,124799.0,3750.0,0,1,1,1522.0,Male only,Primary
+HH0083,Basawa,Male,3,31563.0,3416.0,0,0,1,5521.0,Female head / joint,Primary
+HH0084,Shika,Female,9,29148.0,3122.0,0,0,0,6402.0,Female head / joint,Secondary
+HH0085,Kwarbai-B,Male,10,75144.0,5322.0,0,1,1,6965.0,Male only,Primary
+HH0086,Kwarbai-A,Male,7,48850.0,2117.0,1,1,1,1372.0,Male only,Primary
+HH0087,Samaru,Male,3,54328.0,7118.0,0,1,1,10004.0,Male only,Secondary
+HH0088,Kwarbai-B,Female,6,26771.0,3704.0,0,0,1,2648.0,Female head / joint,Secondary
+HH0089,Kwarbai-B,Female,4,115211.0,2504.0,0,0,0,2043.0,Female head / joint,Secondary
+HH0090,Samaru,Female,10,101291.0,2851.0,0,1,0,2077.0,Male only,Primary
+HH0091,Basawa,Female,10,50999.0,2595.0,1,0,1,3719.0,Female head / joint,Tertiary
+HH0092,Samaru,Male,6,54752.0,3945.0,1,0,1,2530.0,Other,None
+HH0093,Kwarbai-B,Female,6,10761.0,2543.0,1,0,1,2156.0,Female head / joint,Secondary
+HH0094,Shika,Male,10,53243.0,6445.0,0,0,1,5994.0,Other,Primary
+HH0095,Samaru,Female,3,32323.0,2463.0,0,1,1,1472.0,Male only,Primary
+HH0096,Kwarbai-B,Male,10,47115.0,1169.0,0,1,1,1176.0,Female head / joint,Secondary
+HH0097,Shika,Female,11,54692.0,2526.0,0,1,1,4252.0,Male only,Secondary
+HH0098,Kwarbai-A,Female,7,29591.0,1334.0,0,0,0,3994.0,Male only,Tertiary
+HH0099,Shika,Female,9,13170.0,3569.0,1,1,0,5249.0,Male only,Tertiary
+HH0100,Kwarbai-A,Female,9,45285.0,6183.0,0,1,0,1152.0,Male only,None
+HH0101,Samaru,Male,11,23276.0,5034.0,0,0,0,5203.0,Male only,Primary
+HH0102,Samaru,Male,3,29789.0,1865.0,0,0,1,3420.0,Female head / joint,Secondary
+HH0103,Shika,Female,9,25268.0,2487.0,0,0,0,8382.0,Other,None
+HH0104,Kwarbai-B,Male,6,29586.0,8860.0,0,1,1,1019.0,Female head / joint,Primary
+HH0105,Kwarbai-A,Male,10,9084.0,4270.0,0,1,0,2843.0,Female head / joint,Tertiary
+HH0106,Samaru,Female,10,75370.0,3648.0,0,1,1,2010.0,Male only,Primary
+HH0107,Kwarbai-B,Male,5,42277.0,6174.0,1,0,1,802.0,Female head / joint,None
+HH0108,Basawa,Male,8,70745.0,12411.0,1,1,0,1480.0,Male only,Primary
+HH0109,Kwarbai-A,Female,7,119122.0,6962.0,0,0,1,5372.0,Male only,Primary
+HH0110,Kwarbai-B,Female,8,36811.0,3904.0,0,1,1,1758.0,Male only,Primary
+HH0111,Shika,Male,10,12315.0,4347.0,0,1,1,1472.0,Other,Primary
+HH0112,Basawa,Male,8,21241.0,4957.0,1,0,1,4482.0,Other,Secondary
+HH0113,Kwarbai-A,Female,9,17604.0,2680.0,0,1,1,4877.0,Female head / joint,Primary
+HH0114,Kwarbai-A,Male,9,26873.0,2144.0,0,1,0,4870.0,Female head / joint,Secondary
+HH0115,Samaru,Female,5,38093.0,3738.0,0,1,1,1404.0,Male only,None
+HH0116,Samaru,Male,8,10924.0,2267.0,0,0,1,2343.0,Female head / joint,None
+HH0117,Kwarbai-A,Male,6,44600.0,3531.0,0,1,1,5021.0,Female head / joint,Tertiary
+HH0118,Shika,Female,6,14673.0,3820.0,0,0,0,1542.0,Male only,Primary
+HH0119,Kwarbai-A,Female,4,43409.0,11737.0,0,0,1,1444.0,Female head / joint,Tertiary
+HH0120,Shika,Male,4,34006.0,2379.0,0,0,1,4358.0,Male only,Primary
+HH0121,Kwarbai-A,Female,6,30086.0,3426.0,0,0,1,7286.0,Male only,Secondary
+HH0122,Samaru,Male,5,34758.0,3354.0,0,0,1,1090.0,Female head / joint,Secondary
+HH0123,Shika,Male,8,26269.0,4531.0,0,1,0,396.0,Female head / joint,None
+HH0124,Shika,Female,5,25148.0,6145.0,0,0,1,884.0,Male only,None
+HH0125,Shika,Male,5,13231.0,2849.0,0,0,1,1201.0,Female head / joint,Primary
+HH0126,Kwarbai-B,Female,6,35676.0,2415.0,0,1,1,2216.0,Male only,None
+HH0127,Basawa,Female,8,109899.0,1603.0,0,0,1,3756.0,Male only,Primary
+HH0128,Kwarbai-B,Female,11,119169.0,2291.0,0,0,1,2203.0,Female head / joint,None
+HH0129,Kwarbai-B,Female,7,80265.0,4761.0,1,0,1,1495.0,Male only,Primary
+HH0130,Samaru,Female,6,55464.0,3725.0,0,0,1,2717.0,Male only,Primary
+HH0131,Samaru,Male,5,24200.0,2191.0,0,0,1,1245.0,Female head / joint,Primary
+HH0132,Samaru,Male,7,86306.0,3022.0,0,1,1,2362.0,Male only,Primary
+HH0133,Kwarbai-A,Female,11,35113.0,3699.0,0,0,1,1558.0,Male only,Primary
+HH0134,Shika,Female,6,34845.0,4684.0,1,1,0,15934.0,Other,Secondary
+HH0135,Kwarbai-B,Male,5,30493.0,2706.0,1,1,1,4323.0,Female head / joint,None
+HH0136,Samaru,Female,8,38376.0,3212.0,0,1,1,1360.0,Male only,Tertiary
+HH0137,Basawa,Male,9,27970.0,1467.0,0,0,0,1215.0,Other,Primary
+HH0138,Kwarbai-A,Female,11,34535.0,2047.0,0,0,1,1796.0,Male only,Tertiary
+HH0139,Basawa,Male,5,18944.0,8175.0,0,0,1,772.0,Male only,None
+HH0140,Basawa,Male,11,29022.0,1219.0,0,0,0,1464.0,Female head / joint,None
+HH0141,Shika,Male,10,142676.0,3075.0,0,1,1,1456.0,Female head / joint,None
+HH0142,Kwarbai-B,Male,6,34830.0,4063.0,0,0,1,4531.0,Female head / joint,Tertiary
+HH0143,Kwarbai-A,Female,6,31470.0,3019.0,0,1,0,1811.0,Male only,Primary
+HH0144,Shika,Male,5,49982.0,2431.0,0,1,0,1403.0,Male only,Secondary
+HH0145,Samaru,Female,5,55541.0,3531.0,0,0,1,955.0,Female head / joint,Secondary
+HH0146,Kwarbai-B,Male,10,18615.0,3632.0,0,0,0,1071.0,Female head / joint,None
+HH0147,Shika,Female,5,32071.0,3494.0,0,1,1,2330.0,Male only,Primary
+HH0148,Kwarbai-B,Female,7,63005.0,1424.0,0,1,0,2099.0,Female head / joint,Primary
+HH0149,Kwarbai-B,Female,11,42698.0,3382.0,0,0,1,5399.0,Male only,Primary
+HH0150,Kwarbai-A,Male,9,39072.0,2374.0,1,1,1,1571.0,Male only,Secondary
+HH0151,Basawa,Female,4,92264.0,2769.0,0,0,1,5123.0,Female head / joint,None
+HH0152,Kwarbai-B,Male,3,24181.0,4079.0,0,0,1,2922.0,Female head / joint,Tertiary
+HH0153,Basawa,Male,5,38164.0,5016.0,0,0,1,2433.0,Female head / joint,Primary
+HH0154,Basawa,Male,10,26581.0,5701.0,0,1,0,598.0,Female head / joint,Primary
+HH0155,Basawa,Male,5,88804.0,2841.0,0,0,0,989.0,Male only,Secondary
+HH0156,Kwarbai-B,Male,5,11259.0,5779.0,0,0,1,4101.0,Female head / joint,Primary
+HH0157,Kwarbai-B,Female,7,24292.0,6548.0,0,1,1,6493.0,Male only,Secondary
+HH0158,Kwarbai-A,Female,7,26437.0,6427.0,0,0,1,2820.0,Female head / joint,Primary
+HH0159,Kwarbai-B,Female,3,54075.0,7295.0,0,1,1,4162.0,Male only,Primary
+HH0160,Samaru,Female,4,52248.0,3385.0,0,1,1,1835.0,Male only,None
+HH0161,Shika,Female,11,83878.0,3337.0,0,1,1,1882.0,Female head / joint,None
+HH0162,Basawa,Male,6,14123.0,5500.0,0,0,1,1534.0,Male only,Tertiary
+HH0163,Kwarbai-A,Male,5,56970.0,1839.0,0,1,1,4828.0,Other,Secondary
+HH0164,Kwarbai-A,Female,10,30456.0,4043.0,0,0,1,3102.0,Male only,Primary
+HH0165,Shika,Male,7,24358.0,2793.0,0,0,0,2072.0,Male only,Secondary
+HH0166,Samaru,Female,10,50199.0,3028.0,1,0,1,1939.0,Female head / joint,Tertiary
+HH0167,Kwarbai-B,Male,4,20909.0,1524.0,0,0,1,3603.0,Female head / joint,None
+HH0168,Kwarbai-A,Male,7,10445.0,2333.0,0,0,0,3060.0,Male only,Tertiary
+HH0169,Kwarbai-A,Female,10,29082.0,3604.0,0,1,1,1363.0,Male only,None
+HH0170,Kwarbai-A,Male,9,14785.0,5677.0,0,1,0,8113.0,Female head / joint,Secondary
+HH0171,Samaru,Female,9,24604.0,5973.0,0,0,1,2922.0,Female head / joint,Primary
+HH0172,Kwarbai-B,Male,7,45385.0,3498.0,0,0,1,2459.0,Female head / joint,Primary
+HH0173,Samaru,Male,10,43792.0,3312.0,0,0,1,6864.0,Male only,Primary
+HH0174,Kwarbai-B,Female,6,94102.0,2403.0,0,0,1,4998.0,Female head / joint,Secondary
+HH0175,Samaru,Female,8,32216.0,4452.0,1,1,1,2295.0,Other,Primary
+HH0176,Shika,Female,7,14472.0,3217.0,0,1,0,3552.0,Male only,Secondary
+HH0177,Shika,Male,5,23071.0,4929.0,0,0,1,1154.0,Other,Tertiary
+HH0178,Kwarbai-A,Male,4,20918.0,8742.0,0,1,1,1558.0,Male only,None
+HH0179,Kwarbai-A,Male,7,17489.0,3582.0,0,1,1,502.0,Male only,Primary
+HH0180,Basawa,Female,5,47156.0,1722.0,0,0,0,5735.0,Other,Secondary
+HH0181,Samaru,Male,7,24658.0,2367.0,1,1,0,646.0,Female head / joint,Primary
+HH0182,Basawa,Male,9,11088.0,1756.0,0,1,1,3932.0,Male only,Primary
+HH0183,Kwarbai-A,Male,10,55169.0,2001.0,0,1,1,1364.0,Female head / joint,Primary
+HH0184,Samaru,Male,9,33967.0,6993.0,0,0,1,1230.0,Male only,Secondary
+HH0185,Shika,Male,7,44986.0,4078.0,0,1,1,2129.0,Female head / joint,Tertiary
+HH0186,Samaru,Female,3,38694.0,1703.0,1,1,1,2941.0,Male only,Tertiary
+HH0187,Basawa,Female,4,53050.0,5048.0,1,0,1,3746.0,Female head / joint,Secondary
+HH0188,Kwarbai-B,Female,9,37153.0,6838.0,0,0,0,8435.0,Male only,Primary
+HH0189,Kwarbai-A,Female,8,76246.0,3041.0,0,0,1,3137.0,Male only,Tertiary
+HH0190,Kwarbai-B,Female,10,46863.0,2597.0,0,1,1,4523.0,Other,Secondary
+HH0191,Basawa,Female,7,45947.0,3076.0,0,1,0,1605.0,Male only,None
+HH0192,Kwarbai-A,Male,7,46440.0,4198.0,0,0,1,4022.0,Male only,Tertiary
+HH0193,Kwarbai-B,Female,5,15154.0,5014.0,1,1,0,2717.0,Male only,Primary
+HH0194,Shika,Male,3,32900.0,6576.0,0,1,1,1765.0,Female head / joint,Secondary
+HH0195,Samaru,Female,4,31083.0,6676.0,0,0,1,2282.0,Female head / joint,Secondary
+HH0196,Kwarbai-A,Male,9,41131.0,6586.0,0,0,1,2337.0,Male only,Tertiary
+HH0197,Samaru,Female,8,16071.0,7194.0,0,1,1,2790.0,Other,Secondary
+HH0198,Kwarbai-A,Female,5,96806.0,5068.0,0,0,1,3232.0,Male only,Tertiary
+HH0199,Shika,Male,6,38663.0,1693.0,0,0,1,1709.0,Male only,None
+HH0200,Basawa,Male,8,17557.0,3410.0,0,1,0,1453.0,Male only,None
+HH0201,Shika,Male,6,13026.0,4260.0,0,1,0,4118.0,Male only,None
+HH0202,Samaru,Male,6,30676.0,3006.0,1,0,1,744.0,Male only,Secondary
+HH0203,Kwarbai-A,Male,5,34413.0,5742.0,0,0,1,1583.0,Female head / joint,Primary
+HH0204,Samaru,Female,8,23601.0,3041.0,0,0,1,7236.0,Male only,None
+HH0205,Samaru,Male,11,38379.0,2292.0,0,1,1,367.0,Female head / joint,None
+HH0206,Kwarbai-B,Female,5,24718.0,7496.0,1,1,0,1502.0,Other,Secondary
+HH0207,Kwarbai-B,Male,5,50564.0,5080.0,0,1,1,3950.0,Male only,Primary
+HH0208,Kwarbai-A,Male,7,23512.0,4063.0,0,1,1,769.0,Male only,Secondary
+HH0209,Shika,Male,4,35486.0,5787.0,0,1,1,15043.0,Male only,Primary
+HH0210,Basawa,Female,7,65336.0,6194.0,0,0,1,399.0,Other,Tertiary
+HH0211,Kwarbai-A,Female,10,169906.0,4318.0,0,1,1,6671.0,Other,Secondary
+HH0212,Kwarbai-A,Female,8,19839.0,1065.0,1,0,0,7260.0,Male only,Primary
+HH0213,Shika,Female,4,27482.0,2597.0,0,0,1,4635.0,Female head / joint,Primary
+HH0214,Kwarbai-B,Male,4,21941.0,2898.0,0,0,1,2090.0,Male only,None
+HH0215,Kwarbai-B,Male,3,58139.0,2226.0,0,1,1,3134.0,Other,Primary
+HH0216,Basawa,Female,11,18236.0,4021.0,1,0,0,1302.0,Male only,Primary
+HH0217,Kwarbai-A,Male,6,27157.0,6608.0,0,0,0,4301.0,Female head / joint,Primary
+HH0218,Kwarbai-B,Male,5,35676.0,2857.0,0,0,0,1114.0,Female head / joint,None
+HH0219,Kwarbai-B,Female,10,20187.0,2064.0,1,0,1,2015.0,Male only,Primary
+HH0220,Shika,Male,5,20447.0,10037.0,0,1,0,4902.0,Male only,None
+HH0221,Basawa,Male,5,27300.0,2905.0,0,1,0,1119.0,Male only,Tertiary
+HH0222,Kwarbai-A,Female,5,10298.0,1966.0,0,1,0,1891.0,Female head / joint,Primary
+HH0223,Samaru,Male,6,15256.0,4100.0,0,0,1,2738.0,Male only,None
+HH0224,Samaru,Male,3,28344.0,4505.0,0,0,1,954.0,Male only,Primary
+HH0225,Kwarbai-A,Male,8,39693.0,2559.0,1,0,1,5514.0,Female head / joint,Primary
+HH0226,Samaru,Female,6,32485.0,5406.0,0,1,1,3098.0,Female head / joint,None
+HH0227,Shika,Male,11,12527.0,2854.0,0,0,1,845.0,Male only,Primary
+HH0228,Samaru,Male,9,27494.0,2295.0,0,1,1,2362.0,Male only,None
+HH0229,Kwarbai-A,Male,6,58634.0,3981.0,0,0,1,1418.0,Male only,None
+HH0230,Basawa,Male,9,50692.0,5353.0,0,0,0,1540.0,Female head / joint,Secondary
+HH0231,Samaru,Female,10,34640.0,2652.0,0,1,1,2575.0,Male only,Primary
+HH0232,Kwarbai-A,Male,4,21324.0,4295.0,0,0,0,1485.0,Female head / joint,Secondary
+HH0233,Kwarbai-B,Male,4,53036.0,3475.0,0,0,1,4794.0,Male only,Primary
+HH0234,Samaru,Male,4,25659.0,14946.0,0,0,0,1490.0,Male only,Primary
+HH0235,Samaru,Female,3,18006.0,2555.0,1,1,1,4852.0,Female head / joint,Primary
+HH0236,Basawa,Female,5,22442.0,7274.0,0,0,0,2367.0,Other,Primary
+HH0237,Basawa,Male,10,86596.0,3547.0,0,1,1,4443.0,Other,Primary
+HH0238,Kwarbai-A,Female,9,41444.0,3417.0,0,0,0,1671.0,Other,Primary
+HH0239,Basawa,Male,6,72806.0,5223.0,0,1,1,1714.0,Female head / joint,Secondary
+HH0240,Samaru,Male,7,27239.0,5693.0,0,0,1,1089.0,Male only,Primary
+HH0241,Samaru,Female,9,63761.0,6860.0,0,0,1,3658.0,Male only,Primary
+HH0242,Samaru,Female,11,25314.0,4291.0,0,1,0,4705.0,Male only,Primary
+HH0243,Kwarbai-B,Female,5,33042.0,2697.0,0,1,0,10758.0,Female head / joint,Secondary
+HH0244,Samaru,Male,8,161427.0,2783.0,1,1,1,6023.0,Female head / joint,Secondary
+HH0245,Samaru,Female,8,57543.0,4698.0,1,0,1,2907.0,Male only,Primary
+HH0246,Samaru,Female,8,26884.0,4868.0,0,1,1,2106.0,Female head / joint,Primary
+HH0247,Kwarbai-B,Female,10,34514.0,7325.0,0,0,1,3204.0,Female head / joint,Secondary
+HH0248,Basawa,Male,9,44167.0,4488.0,0,1,1,2394.0,Female head / joint,Secondary
+HH0249,Basawa,Male,6,75077.0,6186.0,0,1,0,6798.0,Male only,Primary
+HH0250,Basawa,Female,9,27079.0,7773.0,1,1,1,4726.0,Male only,Secondary
+HH0251,Basawa,Female,3,12775.0,3954.0,0,1,0,1359.0,Male only,Secondary
+HH0252,Shika,Male,6,30706.0,1732.0,0,0,1,1508.0,Male only,Primary
+HH0253,Kwarbai-B,Female,4,36652.0,2019.0,0,1,1,6356.0,Female head / joint,None
+HH0254,Basawa,Female,5,38782.0,1774.0,0,0,1,3028.0,Other,Secondary
+HH0255,Shika,Female,11,80019.0,8069.0,0,1,1,2075.0,Male only,None
+HH0256,Shika,Female,6,43915.0,2383.0,1,1,1,5600.0,Other,Primary
+HH0257,Samaru,Female,3,59145.0,6741.0,0,0,1,1861.0,Male only,Primary
+HH0258,Basawa,Male,7,18757.0,4880.0,0,0,1,2007.0,Female head / joint,Tertiary
+HH0259,Basawa,Male,3,61129.0,8584.0,0,1,1,1767.0,Female head / joint,None
+HH0260,Kwarbai-B,Female,4,127737.0,6012.0,1,1,1,618.0,Other,None
+HH0261,Samaru,Female,6,57742.0,3459.0,0,0,1,4469.0,Male only,Primary
+HH0262,Kwarbai-A,Male,6,42283.0,3294.0,0,1,1,1047.0,Male only,Tertiary
+HH0263,Samaru,Female,5,39831.0,3799.0,1,0,1,1639.0,Male only,None
+HH0264,Kwarbai-A,Female,8,106116.0,3974.0,1,1,0,1450.0,Male only,Secondary
+HH0265,Kwarbai-B,Female,7,20820.0,2792.0,1,1,0,4060.0,Male only,None
+HH0266,Kwarbai-B,Female,4,33974.0,3582.0,1,0,1,2326.0,Male only,Primary
+HH0267,Basawa,Male,10,47864.0,8141.0,0,0,1,2467.0,Male only,None
+HH0268,Kwarbai-A,Female,4,56749.0,1555.0,0,0,1,753.0,Male only,Secondary
+HH0269,Basawa,Female,6,27934.0,4143.0,0,0,1,2296.0,Female head / joint,Primary
+HH0270,Basawa,Male,4,43669.0,2314.0,0,1,0,868.0,Female head / joint,Secondary
+HH0271,Kwarbai-B,Male,11,30738.0,3998.0,1,1,0,3026.0,Other,Primary
+HH0272,Basawa,Female,5,39038.0,5541.0,0,1,0,3155.0,Male only,None
+HH0273,Basawa,Female,10,33548.0,3538.0,0,0,1,2411.0,Male only,None
+HH0274,Basawa,Male,11,18307.0,5359.0,0,1,0,10201.0,Female head / joint,Primary
+HH0275,Kwarbai-A,Female,4,35858.0,1644.0,0,0,1,3531.0,Female head / joint,None
+HH0276,Kwarbai-B,Male,3,61469.0,6333.0,0,1,1,3704.0,Other,None
+HH0277,Kwarbai-B,Female,3,20329.0,2693.0,0,1,1,2696.0,Other,Primary
+HH0278,Samaru,Male,4,31425.0,4970.0,1,0,1,2133.0,Female head / joint,Primary
+HH0279,Shika,Male,6,54115.0,3989.0,0,1,1,4799.0,Male only,Secondary
+HH0280,Kwarbai-B,Male,4,19112.0,999.0,0,1,1,5276.0,Female head / joint,Primary
+HH0281,Kwarbai-B,Male,11,40521.0,2495.0,1,1,0,982.0,Female head / joint,Primary
+HH0282,Shika,Female,7,19224.0,4065.0,1,1,1,5106.0,Male only,Secondary
+HH0283,Samaru,Female,10,71738.0,7919.0,0,0,1,3497.0,Female head / joint,Tertiary
+HH0284,Kwarbai-A,Female,3,145465.0,4203.0,1,0,1,4781.0,Male only,Secondary
+HH0285,Basawa,Male,4,122193.0,4142.0,1,0,1,3382.0,Other,None
+HH0286,Kwarbai-B,Female,7,31840.0,1797.0,0,1,0,1021.0,Female head / joint,Primary
+HH0287,Basawa,Female,4,56620.0,7447.0,0,1,0,1074.0,Male only,None
+HH0288,Samaru,Male,4,39050.0,8987.0,1,0,1,8754.0,Female head / joint,Secondary
+HH0289,Samaru,Male,3,38610.0,3693.0,1,1,1,2912.0,Female head / joint,None
+HH0290,Kwarbai-A,Male,5,91918.0,3262.0,0,0,1,905.0,Female head / joint,Primary
+HH0291,Shika,Female,9,16457.0,1620.0,0,0,1,3114.0,Male only,None
+HH0292,Shika,Female,10,68403.0,5663.0,1,0,0,1894.0,Other,Tertiary
+HH0293,Kwarbai-B,Male,7,35264.0,14061.0,0,1,1,672.0,Male only,None
+HH0294,Samaru,Male,4,84552.0,5211.0,0,0,1,491.0,Female head / joint,Secondary
+HH0295,Basawa,Male,7,40633.0,6849.0,0,0,0,795.0,Female head / joint,Secondary
+HH0296,Kwarbai-B,Male,8,24255.0,4774.0,0,0,0,2952.0,Other,Primary
+HH0297,Basawa,Male,4,42885.0,2225.0,1,0,1,2360.0,Male only,Secondary
+HH0298,Kwarbai-A,Male,6,56477.0,7103.0,0,1,1,2050.0,Male only,Primary
+HH0299,Shika,Male,10,37103.0,1964.0,0,0,1,2979.0,Female head / joint,Primary
+HH0300,Kwarbai-B,Female,6,48670.0,3277.0,0,0,0,3717.0,Male only,Primary
+HH0301,Samaru,Male,7,26556.0,4186.0,0,1,0,560.0,Male only,None
+HH0302,Samaru,Female,10,10094.0,5662.0,1,0,0,1977.0,Male only,Secondary
+HH0303,Kwarbai-B,Male,9,62319.0,4483.0,0,0,1,1367.0,Female head / joint,None
+HH0304,Kwarbai-B,Male,4,55243.0,4418.0,0,1,1,1029.0,Male only,None
+HH0305,Samaru,Male,8,39692.0,2488.0,1,1,1,1664.0,Female head / joint,None
+HH0306,Kwarbai-A,Female,11,37837.0,1911.0,0,1,1,2239.0,Female head / joint,Secondary
+HH0307,Kwarbai-B,Female,4,67628.0,3755.0,0,0,1,2025.0,Male only,Primary
+HH0308,Samaru,Female,11,27605.0,2553.0,1,1,0,882.0,Male only,Primary
+HH0309,Kwarbai-A,Female,8,23768.0,1893.0,0,0,0,1740.0,Female head / joint,Secondary
+HH0310,Kwarbai-B,Male,9,32431.0,1933.0,1,0,1,10007.0,Female head / joint,Secondary
+HH0311,Shika,Male,5,74121.0,2850.0,1,0,0,1167.0,Female head / joint,Secondary
+HH0312,Shika,Female,3,15799.0,1442.0,0,1,1,749.0,Male only,Primary
+HH0313,Kwarbai-A,Male,3,74243.0,1856.0,0,1,1,2959.0,Male only,Primary
+HH0314,Basawa,Male,8,24747.0,1607.0,0,0,0,3706.0,Female head / joint,Primary
+HH0315,Samaru,Female,11,18761.0,3988.0,0,0,0,3377.0,Male only,Tertiary
+HH0316,Basawa,Male,8,77345.0,4465.0,0,1,0,1115.0,Male only,Primary
+HH0317,Kwarbai-B,Male,6,34265.0,9933.0,0,1,0,4908.0,Female head / joint,Primary
+HH0318,Shika,Female,9,16645.0,1722.0,0,0,1,1408.0,Male only,Tertiary
+HH0319,Samaru,Female,11,29283.0,2592.0,0,0,1,1103.0,Female head / joint,None
+HH0320,Shika,Male,4,63490.0,5746.0,0,0,1,1594.0,Female head / joint,None
+HH0321,Basawa,Male,3,74254.0,3267.0,1,1,1,2262.0,Other,Secondary
+HH0322,Kwarbai-B,Female,11,28106.0,3092.0,1,0,0,4023.0,Female head / joint,Tertiary
+HH0323,Kwarbai-A,Male,3,46341.0,8558.0,0,0,0,3777.0,Female head / joint,None
+HH0324,Samaru,Male,10,55740.0,3074.0,0,0,1,2402.0,Male only,None
+HH0325,Kwarbai-B,Male,4,24667.0,2042.0,0,0,0,4689.0,Female head / joint,None
+HH0326,Kwarbai-B,Female,4,44937.0,1885.0,0,0,1,2584.0,Female head / joint,Secondary
+HH0327,Kwarbai-A,Female,5,35628.0,4306.0,0,0,1,4570.0,Male only,None
+HH0328,Kwarbai-B,Male,5,26328.0,4241.0,1,1,1,914.0,Female head / joint,Primary
+HH0329,Basawa,Female,5,27030.0,1834.0,0,0,0,811.0,Male only,Secondary
+HH0330,Kwarbai-B,Female,3,37806.0,2225.0,0,1,1,4201.0,Other,None
+HH0331,Basawa,Male,10,36972.0,4757.0,1,1,1,922.0,Other,Tertiary
+HH0332,Kwarbai-A,Female,10,25867.0,4859.0,0,0,1,1976.0,Other,Primary
+HH0333,Shika,Male,9,28126.0,2640.0,1,1,0,2279.0,Male only,Primary
+HH0334,Kwarbai-B,Female,11,70827.0,4970.0,0,0,0,1734.0,Male only,Primary
+HH0335,Shika,Male,11,41287.0,4846.0,0,1,0,1777.0,Male only,Primary
+HH0336,Kwarbai-B,Female,11,61763.0,1493.0,1,1,1,6469.0,Female head / joint,Primary
+HH0337,Kwarbai-B,Male,6,74689.0,3115.0,1,1,0,415.0,Other,None
+HH0338,Basawa,Female,8,51705.0,4481.0,1,0,0,4531.0,Female head / joint,Primary
+HH0339,Kwarbai-A,Female,9,141851.0,2734.0,0,1,1,12169.0,Male only,Primary
+HH0340,Kwarbai-B,Female,8,22133.0,1250.0,1,1,1,2481.0,Female head / joint,Primary
+HH0341,Basawa,Female,10,58985.0,3161.0,0,1,1,2408.0,Female head / joint,None
+HH0342,Kwarbai-A,Female,9,30005.0,5303.0,0,1,0,4058.0,Female head / joint,Primary
+HH0343,Kwarbai-B,Male,6,110577.0,8024.0,0,0,1,8780.0,Other,Secondary
+HH0344,Samaru,Female,8,100737.0,1218.0,0,1,0,1062.0,Female head / joint,Tertiary
+HH0345,Basawa,Female,4,11243.0,13449.0,0,1,0,2595.0,Other,None
+HH0346,Kwarbai-B,Male,11,20306.0,2072.0,0,1,1,2142.0,Female head / joint,Tertiary
+HH0347,Samaru,Male,11,54100.0,5875.0,0,0,1,3610.0,Female head / joint,Secondary
+HH0348,Basawa,Male,8,58333.0,6749.0,0,1,0,2728.0,Female head / joint,None
+HH0349,Kwarbai-B,Female,9,56497.0,5952.0,1,0,1,3873.0,Other,None
+HH0350,Kwarbai-B,Female,6,34804.0,3924.0,0,0,1,1817.0,Female head / joint,Tertiary
+HH0351,Kwarbai-B,Female,6,47718.0,2037.0,0,0,1,2526.0,Male only,Primary
+HH0352,Samaru,Female,7,53735.0,4980.0,1,0,0,1527.0,Female head / joint,None
+HH0353,Kwarbai-A,Female,5,34658.0,2546.0,1,1,0,1533.0,Other,Secondary
+HH0354,Kwarbai-A,Female,3,67264.0,1031.0,0,0,1,2210.0,Male only,Secondary
+HH0355,Kwarbai-A,Female,6,9361.0,14980.0,0,0,1,2210.0,Female head / joint,Tertiary
+HH0356,Samaru,Female,9,53118.0,5188.0,0,0,1,1074.0,Male only,Primary
+HH0357,Shika,Male,5,19527.0,9037.0,1,1,1,7325.0,Female head / joint,Primary
+HH0358,Shika,Female,9,64551.0,2308.0,0,0,1,2220.0,Female head / joint,Primary
+HH0359,Basawa,Female,8,31659.0,7584.0,1,0,0,926.0,Female head / joint,None
+HH0360,Kwarbai-B,Male,6,21306.0,8062.0,1,1,1,5277.0,Male only,Secondary
+HH0361,Kwarbai-A,Female,9,45449.0,7921.0,0,1,0,1445.0,Male only,Tertiary
+HH0362,Samaru,Male,10,21019.0,3603.0,1,1,1,3484.0,Female head / joint,None
+HH0363,Kwarbai-A,Female,11,21001.0,1996.0,0,1,0,2412.0,Female head / joint,Primary
+HH0364,Samaru,Female,9,14181.0,3332.0,0,0,0,2909.0,Other,Primary
+HH0365,Samaru,Male,3,35738.0,1210.0,0,1,0,2751.0,Female head / joint,None
+HH0366,Kwarbai-A,Male,6,48927.0,1555.0,0,1,0,1632.0,Female head / joint,Secondary
+HH0367,Kwarbai-A,Female,7,67092.0,3812.0,0,1,0,2512.0,Female head / joint,Tertiary
+HH0368,Kwarbai-A,Male,3,33355.0,2218.0,0,1,1,10129.0,Female head / joint,Primary
+HH0369,Shika,Male,6,68099.0,3354.0,0,0,0,510.0,Female head / joint,Secondary
+HH0370,Shika,Female,4,36709.0,3448.0,0,0,0,2556.0,Male only,Tertiary
+HH0371,Kwarbai-A,Female,7,34339.0,9560.0,1,1,1,3309.0,Female head / joint,Primary
+HH0372,Kwarbai-B,Female,4,51233.0,6966.0,1,1,1,1168.0,Female head / joint,Tertiary
+HH0373,Basawa,Male,5,68531.0,3560.0,0,0,1,935.0,Male only,Secondary
+HH0374,Basawa,Male,5,29588.0,6664.0,1,0,1,11062.0,Female head / joint,Secondary
+HH0375,Kwarbai-B,Female,11,31374.0,2465.0,0,0,1,1882.0,Female head / joint,None
+HH0376,Samaru,Male,7,32975.0,3077.0,0,0,1,10460.0,Male only,Primary
+HH0377,Basawa,Female,8,38165.0,5739.0,1,1,1,3551.0,Female head / joint,None
+HH0378,Shika,Female,11,21158.0,1957.0,0,0,0,2574.0,Male only,Tertiary
+HH0379,Kwarbai-A,Female,3,67292.0,3167.0,0,1,0,3406.0,Female head / joint,Secondary
+HH0380,Kwarbai-A,Male,5,28560.0,1881.0,1,0,1,3807.0,Female head / joint,None
+HH0381,Basawa,Female,6,47929.0,3861.0,0,0,0,5573.0,Male only,Primary
+HH0382,Samaru,Female,11,22131.0,8236.0,0,0,1,3311.0,Female head / joint,None
+HH0383,Kwarbai-A,Male,9,45039.0,2500.0,1,1,0,2701.0,Male only,Secondary
+HH0384,Samaru,Female,9,45934.0,4076.0,0,1,1,2761.0,Female head / joint,Secondary
+HH0385,Kwarbai-A,Female,6,28214.0,2325.0,1,0,1,6288.0,Male only,Tertiary
+HH0386,Basawa,Female,10,122092.0,2049.0,0,1,1,4324.0,Male only,Secondary
+HH0387,Kwarbai-B,Male,4,45371.0,1963.0,1,1,1,1210.0,Male only,None
+HH0388,Kwarbai-A,Male,6,105467.0,7535.0,1,0,0,1564.0,Female head / joint,Primary
+HH0389,Shika,Male,6,64569.0,11863.0,0,1,1,3076.0,Male only,Secondary
+HH0390,Kwarbai-B,Male,3,24407.0,4636.0,0,0,1,1578.0,Other,Tertiary
+HH0391,Shika,Male,3,28874.0,2545.0,0,1,1,1875.0,Female head / joint,Primary
+HH0392,Samaru,Male,10,47177.0,5179.0,0,0,1,1250.0,Female head / joint,None
+HH0393,Kwarbai-A,Male,11,37673.0,3080.0,0,1,1,2032.0,Male only,Primary
+HH0394,Samaru,Male,5,37409.0,5435.0,0,0,1,3283.0,Female head / joint,Primary
+HH0395,Kwarbai-A,Female,3,30585.0,4211.0,0,1,1,4898.0,Female head / joint,None
+HH0396,Kwarbai-A,Female,4,12270.0,4187.0,0,0,1,2456.0,Female head / joint,Primary
+HH0397,Shika,Male,3,31721.0,4933.0,0,0,1,10430.0,Male only,Primary
+HH0398,Samaru,Female,10,9596.0,2725.0,0,1,1,2313.0,Other,Primary
+HH0399,Kwarbai-B,Male,3,45392.0,2974.0,0,0,1,22820.0,Male only,Tertiary
+HH0400,Basawa,Male,9,23491.0,1540.0,0,0,0,4920.0,Male only,Tertiary
+HH0401,Samaru,Female,10,23641.0,2919.0,0,0,1,3455.0,Male only,None
+HH0402,Basawa,Male,4,31838.0,1788.0,0,1,1,1721.0,Other,Primary
+HH0403,Basawa,Female,5,42770.0,3387.0,0,0,0,338.0,Male only,Secondary
+HH0404,Kwarbai-B,Female,5,15380.0,2256.0,0,0,1,2189.0,Other,None
+HH0405,Kwarbai-B,Female,9,12719.0,3830.0,0,0,1,2765.0,Male only,Primary
+HH0406,Samaru,Male,11,19156.0,4567.0,1,0,1,9374.0,Male only,None
+HH0407,Kwarbai-A,Male,9,10668.0,1790.0,0,1,1,929.0,Male only,Primary
+HH0408,Kwarbai-B,Male,5,20331.0,2424.0,0,0,1,9266.0,Female head / joint,Primary
+HH0409,Basawa,Female,9,94328.0,2272.0,0,1,1,2047.0,Female head / joint,Secondary
+HH0410,Kwarbai-B,Male,9,19265.0,5288.0,0,1,1,4051.0,Female head / joint,Primary
+HH0411,Kwarbai-B,Male,6,53683.0,8546.0,1,1,1,412.0,Other,Primary
+HH0412,Kwarbai-B,Male,4,15947.0,5573.0,0,0,1,2690.0,Other,Secondary
+HH0413,Kwarbai-A,Male,5,43455.0,3057.0,0,0,0,1919.0,Male only,Primary
+HH0414,Shika,Female,10,29976.0,7574.0,0,0,0,3935.0,Female head / joint,Tertiary
+HH0415,Basawa,Female,7,35035.0,1708.0,1,0,0,2602.0,Female head / joint,Primary
+HH0416,Kwarbai-A,Male,4,51086.0,7705.0,0,0,1,1097.0,Male only,Primary
+HH0417,Basawa,Male,11,104166.0,2623.0,1,1,0,4736.0,Female head / joint,Secondary
+HH0418,Shika,Female,7,40816.0,907.0,0,1,1,3969.0,Female head / joint,Primary
+HH0419,Shika,Male,6,39129.0,13703.0,0,0,1,3706.0,Female head / joint,Secondary
+HH0420,Kwarbai-A,Female,3,20251.0,8015.0,0,0,0,4946.0,Male only,None
